@@ -14,7 +14,7 @@ ssLinks机场，金融级跨境专线， Shadowsocks加密协议。
 
 暂无最新优惠码
 
-## ssLinks价格11111111111
+## ssLinks价格111111111111
 
 |套餐|Mini|Basic|Advanced|Pro|Elite|
 |----|----|----|----|----|----|
